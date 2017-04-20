@@ -12,3 +12,17 @@ img {
 }
 
 /* Code Under This Line */
+div {
+  background-color: green;
+}
+
+div.foo {
+  background-color: red;
+}
+div.bar {
+  background-color: blue;
+}
+
+div.fiz {
+  background-color: blue;
+}
