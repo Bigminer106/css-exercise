@@ -15,5 +15,32 @@ img {
   #222
   #7BBADE
 */
- 
+
 /* Code Under This Line */
+.box-model {
+  background-color: #FFED5D;
+  width: 48%;
+  margin: auto;
+  padding: 10px;
+}
+
+.b {
+  background-color: #FF7050;
+  width: 90%;
+  margin: auto;
+  padding: 15px;
+}
+
+.c {
+  background-color: #222;
+  width: 90%;
+  margin: auto;
+  padding: 20px;
+}
+
+.d {
+  background-color: #7BBADE;
+  width: 90%;
+  margin: auto;
+  padding: 25px;
+}
