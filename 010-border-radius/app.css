@@ -23,3 +23,28 @@ h4 {
 }
 
 /* Your Code Goes Under This Line */
+
+div.full {
+  background-color: black;
+  border: 5px;
+  border-radius: 200px;
+  border-color: black;
+  border-style: solid;
+  height: 200px;
+  width: 200px;
+}
+
+div.outline {
+  border: 2px;
+  border-radius: 200px;
+  border-color: black;
+  border-style: solid;
+  height: 200px;
+  width: 200px;
+}
+
+.post {
+  border-top-right-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
